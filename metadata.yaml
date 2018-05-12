@@ -1,0 +1,28 @@
+_repo: The-Jenolan-CavesAn-Excursion-in-Australian-Wonderland_39621
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39621-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Cook, Samuel
+    gutenberg_agent_id: '40116'
+    url: http://www.gutenberg.org/2009/agents/40116
+description: ''
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39621'
+  lccn: a22001031
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GB'
+- !lcc 'DU'
+- !lcsh 'Caves'
+- !lcsh 'Australia -- Description and travel'
+- !lcsh 'Jenolan Caves (N.S.W.)'
+title: 'The Jenolan Caves: An Excursion in Australian Wonderland'
+url: http://www.gutenberg.org/ebooks/39621
