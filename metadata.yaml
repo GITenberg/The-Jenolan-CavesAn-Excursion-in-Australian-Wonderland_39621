@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40116'
     url: http://www.gutenberg.org/2009/agents/40116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39621#The-Jenolan-CavesAn-Excursion-in-Australian-Wonderland
 gutenberg_issued: '2012-05-05'
 gutenberg_type: Text
 identifiers:
